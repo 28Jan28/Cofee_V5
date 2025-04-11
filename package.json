@@ -1,0 +1,24 @@
+{
+  "name": "coffee-system",
+  "version": "1.0.0",
+  "description": "Coffee Machine System with RFID support",
+  "main": "backend-coffee-server.js",
+  "scripts": {
+    "start": "node backend-coffee-server.js",
+    "dev": "nodemon backend-coffee-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "express-rate-limit": "^6.7.0",
+    "winston": "^3.8.2",
+    "redis": "^4.6.7",
+    "node-cron": "^3.0.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,135 @@
+{"level":"info","message":"Server running on port 3000","service":"coffee-api","timestamp":"2025-04-11T06:49:26.652Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T06:49:26.655Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T06:49:26.684Z"}
+{"level":"info","message":"GET / from ::1","service":"coffee-api","timestamp":"2025-04-11T06:50:03.061Z"}
+{"level":"info","message":"Server running on port 3000","service":"coffee-api","timestamp":"2025-04-11T06:58:19.522Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T06:58:19.526Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T06:58:19.554Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T06:58:37.879Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T06:58:38.115Z"}
+{"level":"info","message":"Server running on port 3000","service":"coffee-api","timestamp":"2025-04-11T07:01:24.461Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:01:24.464Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:01:24.493Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:02:09.574Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:02:09.993Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:05:13.895Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:05:13.898Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:05:13.918Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:05:27.296Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:05:27.463Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:13:10.968Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:13:10.971Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:13:10.990Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:13:27.320Z"}
+{"code":"ENOENT","errno":-4058,"expose":false,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","path":"C:\\coffee-system\\public\\index.html","service":"coffee-api","stack":"Error: ENOENT: no such file or directory, stat 'C:\\coffee-system\\public\\index.html'","status":404,"statusCode":404,"syscall":"stat","timestamp":"2025-04-11T07:13:27.503Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:25:34.578Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:25:34.581Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:25:34.610Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:44:13.676Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:44:13.679Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T07:44:13.688Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:44:13.703Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:51:02.958Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:51:02.961Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T07:51:02.966Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:51:02.981Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:53:21.521Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:53:21.524Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T07:53:21.529Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:53:21.544Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T07:56:51.393Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T07:56:51.396Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T07:56:51.403Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T07:56:51.419Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T08:03:24.071Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T08:03:24.075Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T08:03:24.079Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T08:03:24.094Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:03:43.681Z"}
+{"level":"info","message":"GET /favicon.ico from ::1","service":"coffee-api","timestamp":"2025-04-11T08:03:43.733Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:03:53.697Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:03:54.709Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:03.697Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:13.742Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:23.742Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:33.730Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:43.685Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:04:53.737Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:05:03.733Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:05:13.729Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:05:23.739Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:05:33.728Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:05:43.738Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:06:30.729Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:07:30.738Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:08:30.739Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:09:30.740Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T08:12:07.583Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T08:12:07.586Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T08:12:07.591Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T08:12:07.606Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:17.974Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:18.048Z"}
+{"level":"info","message":"GET /favicon.ico from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:18.057Z"}
+{"level":"info","message":"POST /api/v1/verify-rfid from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:23.998Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:27.979Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:27.992Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:37.980Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:37.985Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:48.734Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:48.745Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:57.974Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:12:57.983Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:07.980Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:07.989Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:17.979Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:17.990Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:27.981Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:27.991Z"}
+{"level":"info","message":"POST /api/v1/verify-rfid from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:32.291Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:38.732Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:38.735Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:47.978Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:47.983Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:58.740Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:13:58.750Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:08.736Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:08.739Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:18.731Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:18.741Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:28.740Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:28.744Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:38.727Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:38.731Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:48.735Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:48.741Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:58.728Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:14:58.732Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:15:30.739Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:15:30.746Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:16:30.737Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:16:30.746Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:17:30.736Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:17:30.741Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:18:30.734Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:18:30.738Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:19:30.730Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:19:30.734Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:20:30.739Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:20:30.747Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:21:30.731Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:21:30.738Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:22:30.730Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:22:30.736Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:23:30.739Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:23:30.746Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:24:30.730Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:24:30.736Z"}
+{"level":"info","message":"Server running on port 3001","service":"coffee-api","timestamp":"2025-04-11T08:26:30.768Z"}
+{"level":"info","message":"Environment: undefined","service":"coffee-api","timestamp":"2025-04-11T08:26:30.771Z"}
+{"level":"info","message":"Redis Client Connected","service":"coffee-api","timestamp":"2025-04-11T08:26:30.776Z"}
+{"level":"info","message":"Connected to MongoDB","service":"coffee-api","timestamp":"2025-04-11T08:26:30.793Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:26:43.444Z"}
+{"level":"info","message":"GET /favicon.ico from ::1","service":"coffee-api","timestamp":"2025-04-11T08:26:43.524Z"}
+{"level":"info","message":"GET /api/v1/coffee-options from ::1","service":"coffee-api","timestamp":"2025-04-11T08:26:43.527Z"}
+{"level":"info","message":"GET /api/v1/health from ::1","service":"coffee-api","timestamp":"2025-04-11T08:26:53.447Z"}
