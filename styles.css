@@ -1,0 +1,11 @@
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 120px); /* Výška mezi horním a spodním pruhem */
+    background-image: url('https://www.svycarskekavovary.cz/data/sharedfiles/75305/air-espresso-caffe5-1-1-1.jpg'); /* Nový obrázek */
+    background-size: cover;
+    background-position: center;
+    z-index: -1; /* Posune obrázek za obsah */
+}
